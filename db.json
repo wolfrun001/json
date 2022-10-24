@@ -11,5 +11,5 @@
   "profile": {
     "name": "typicode"
   },
-  "cashier":{"status":200,"message":"操作成功","data":{"version_code":"1","version_name":"1","update_info":"更新","is_force":"0","download_url":"r"}}
+  "cashier":{"status":200,"message":"操作成功","data":{"version_code":"1","version_name":"1","update_info":"更新","is_force":"0","download_url":"te"}}
 }
