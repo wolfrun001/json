@@ -11,5 +11,5 @@
   "profile": {
     "name": "typicode"
   },
-  "cashier":{"status":200,"message":"操作成功","data":{"version_code":"100","version_name":"1","update_info":"","is_force":"1","download_url":"httpn"}}
+  "cashier":{"status":200,"message":"操作成功","data":{"version_code":"100","version_name":"1","update_info":"","is_force":"1","download_url":"https://my-json-server.typicode.com/wolfrun001/json/cashier"}}
 }
