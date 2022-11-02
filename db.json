@@ -9,5 +9,6 @@
     "name": "typicode"
   },
   "cashier":{"status":200,"message":"操作成功","data":{"version_code":"0","version_name":"0","update_info":"更新","is_force":"0","download_url":"0"}},
-  "charger":{"infoCode":1,"message":"操作成功！","data":{"versionCode":"1","versionName":"1","updateInfo":"更新","isForce":"1","downloadUrl":"1"}}
+  "charger":{"infoCode":1,"message":"操作成功！","data":{"versionCode":"1","versionName":"1","updateInfo":"更新","isForce":"1","downloadUrl":"1"}},
+  "businessmanager":{"status":200,"message":"操作成功","data":{"version_code":"0","version_name":"0","update_info":"更新","is_force":"0","download_url":"0"}}
 }
